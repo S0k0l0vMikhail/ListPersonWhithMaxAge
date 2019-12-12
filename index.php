@@ -5,6 +5,7 @@ require_once "MyLogger.php";
 
 class Index {
 
+    
     private $dsn = 'mysql:host=localhost;dbname=mysql';
     private $username = 'mysql';
     private $password = 'mysql';
